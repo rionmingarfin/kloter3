@@ -7,7 +7,7 @@ require_once "function/config.php"
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>data sensus penduduk</title>
+	<title>program</title>
 	<meta name="description" content="Free Bootstrap 4 Admin Theme | Pike Admin">
 	<meta name="author" content="Pike Web Development - https://www.pikephp.com">
 
@@ -24,7 +24,7 @@ require_once "function/config.php"
 		<div class="headerbar">
 			<!-- LOGO -->
 			<div class="headerbar-left">
-				<a href="index.html" class="logo"><img alt="Logo" src="assets/images/logo.png" /> <span>sensus</span></a>
+				<a href="index.html" class="logo"><img alt="Logo" src="assets/images/logo.png" /> <span>program</span></a>
 			</div>
 			<!-- akhir logo -->
 			<nav class="navbar-custom">
