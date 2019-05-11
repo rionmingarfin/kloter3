@@ -19,7 +19,7 @@ function is_email_valid($b){
 	
 
 if (!$uppercase || !$lowercase || !$number || strlen($b) ==1 ){
-		echo "password tidak valid";
+		echo "email tidak valid";
 	}
 	else {
 		return true;
